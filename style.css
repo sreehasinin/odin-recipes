@@ -1,3 +1,10 @@
+body {
+    margin: 30px;
+    border: 5px double rgb(164, 20, 58);
+    padding: 20px;
+    background-color: bisque;
+}
+
 h1{
     font-family: copperplate,sans-serif;
     background-color: rgb(164, 20, 58);
@@ -9,14 +16,30 @@ h1{
     border-style: double;
     height: 30px;
     width: auto;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
-ul{
+.recipelist{
+    padding: 20px;
     font-family: copperplate,sans-serif;
     font-size: 30px;
     height: 50px;
     width: auto;
     color: rgb(164, 20, 58);
     border: black;
+}
+
+h2{
+    height:20px;
+    width: auto;
+    color: rgb(164, 20, 58);
+    font-style: italic;
+    text-decoration: underline;
+    background-color: rgba(248, 197, 135, 0.657);
+    padding: 10px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
 }
