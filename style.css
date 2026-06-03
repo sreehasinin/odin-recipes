@@ -1,0 +1,22 @@
+h1{
+    font-family: copperplate,sans-serif;
+    background-color: rgb(164, 20, 58);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    border: 5px;
+    border-style: double;
+    height: 30px;
+    width: auto;
+    margin-bottom: 50px;
+}
+
+ul{
+    font-family: copperplate,sans-serif;
+    font-size: 30px;
+    height: 50px;
+    width: auto;
+    color: rgb(164, 20, 58);
+    border: black;
+}
